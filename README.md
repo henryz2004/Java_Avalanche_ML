@@ -25,7 +25,7 @@ Initially, this started as a small project for personal experimentation with AI,
 The complete package is under [/src/avalanche](/src/avalanche), so as long as you download that and move it into your porject, you should be able to use it like any other Java package.
 
 ## Documentation
-Sorry. This project's documentation is certainly not up to tier. However, using the source code and the tests that are included in the [/src](/src) directory, it should be relatively easy to figure out some functionality. Generally, the design is based on creating an instance of the algorithm that you want to use, and then fitting the data with it.
+Sorry. This project's documentation is certainly not up to par. However, using the source code and the tests that are included in the [/src](/src) directory, it should be relatively easy to figure out some functionality. Generally, the design is based on creating an instance of the algorithm that you want to use, and then fitting the data with it.
 
 ## License
 This project is licensed under the MIT License. You can find more information in the [LICENSE.md](LICENSE.md) file.
