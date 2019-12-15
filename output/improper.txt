@@ -1,0 +1,22 @@
+Printing out Neural Network (2 layers deep, learning rate: 2.0)
+ Neuron Layer with 3 inputs and 4 neurons/outputs  [[0.63, 0.86, -0.46, 0.25], [0.37, 0.71, -0.45, -0.23], [0.82, 0.66, 0.31, 0.84]]
+ Neuron Layer with 4 inputs and 1 neurons/outputs  [[-0.45], [-0.87], [0.67], [-0.32]]
+
+Finished training 0 iterations
+Finished training 10000 iterations
+Finished training 20000 iterations
+Finished training 30000 iterations
+Finished training 40000 iterations
+Finished training 50000 iterations
+Finished training 60000 iterations
+Finished training 70000 iterations
+Finished training 80000 iterations
+Finished training 90000 iterations
+Finished training 100000 iterations
+Considering a new situation [1,1,0] -> ?: 
+[[0.9985312218232827]]
+[[0.9974757818291624]]
+
+Printing out Neural Network (2 layers deep, learning rate: 2.0)
+ Neuron Layer with 3 inputs and 4 neurons/outputs  [[5.46, 5.81, 5.21, -3.38], [5.45, 5.8, 5.2, -3.38], [-0.27, -0.59, -8.64, 9.26]]
+ Neuron Layer with 4 inputs and 1 neurons/outputs  [[11.18], [12.17], [-16.8], [-16.76]]

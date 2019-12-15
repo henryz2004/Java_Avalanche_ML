@@ -1,0 +1,42 @@
+Printing out Neural Network (2 layers deep, learning rate: 1.0)
+ Neuron Layer with 3 inputs and 4 neurons/outputs  [[-0.39, -0.95, 0.84, -0.8], [0.59, -0.28, 0.21, 0.62], [-0.22, -0.64, -0.85, -0.53]]
+ Neuron Layer with 4 inputs and 1 neurons/outputs  [[-0.59], [0.38], [0.73], [-0.63]]
+
+Finished training 0 iterations	Error is 0.6093811409975808
+Finished training 10000 iterations	Error is 0.005543128740888017
+Finished training 20000 iterations	Error is 0.0035192039352161713
+Finished training 30000 iterations	Error is 0.002733912121757039
+Finished training 40000 iterations	Error is 0.0022956646015746874
+Finished training 50000 iterations	Error is 0.0020092222918083828
+Finished training 60000 iterations	Error is 0.0018043762548728254
+Finished training 70000 iterations	Error is 0.0016490756169172346
+Finished training 80000 iterations	Error is 0.0015264059297325086
+Finished training 90000 iterations	Error is 0.001426516294438252
+Finished training 100000 iterations	Error is 0.00134324308380951
+Finished training 110000 iterations	Error is 0.0012725130803183783
+Finished training 120000 iterations	Error is 0.0012115159007752663
+Finished training 130000 iterations	Error is 0.0011582435738935533
+Finished training 140000 iterations	Error is 0.001111219417348973
+Finished training 150000 iterations	Error is 0.0010693307766550851
+Finished training 160000 iterations	Error is 0.0010317217447156472
+Finished training 170000 iterations	Error is 9.97722042462719E-4
+Finished training 180000 iterations	Error is 9.667985136539049E-4
+Finished training 190000 iterations	Error is 9.385212162054017E-4
+Finished training 200000 iterations	Error is 9.125391982308895E-4
+Finished training 210000 iterations	Error is 8.885628577001926E-4
+Finished training 220000 iterations	Error is 8.663508749075788E-4
+Finished training 230000 iterations	Error is 8.457003827647702E-4
+Finished training 240000 iterations	Error is 8.264394696689074E-4
+Finished training 250000 iterations	Error is 8.084213892099367E-4
+Finished training 260000 iterations	Error is 7.915200367040931E-4
+Finished training 270000 iterations	Error is 7.756263782521313E-4
+Finished training 280000 iterations	Error is 7.606456045114371E-4
+Finished training 290000 iterations	Error is 7.46494841940711E-4
+Finished training 300000 iterations	Error is 7.331012971813907E-4
+Considering a new situation [1,1,0] -> ?: 
+[[0.9982191521054837]]
+[[0.9988426415929617]]
+
+Printing out Neural Network (2 layers deep, learning rate: 1.0)
+ Neuron Layer with 3 inputs and 4 neurons/outputs  [[3.86, 3.29, 6.99, -5.79], [3.86, 3.29, 7.05, -5.77], [-5.11, -10.46, -1.72, 0.32]]
+ Neuron Layer with 4 inputs and 1 neurons/outputs  [[-18.58], [13.91], [11.01], [-17.78]]
